@@ -1,2 +1,3 @@
 name: Yi He, University of Chicago
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
